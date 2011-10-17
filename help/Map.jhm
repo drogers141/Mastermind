@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE map
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Map Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/map_1_0.dtd">
+
+<map version="1.0">
+	<mapID target="main" url="masterMind.html" />
+	<mapID target="configure" url="configureGame/configure.html" />
+	<mapID target="play" url="playGame/playGame.html" />
+	<!--
+	<mapID target="jde.intro" url="idehelp/jde.html" />
+	<mapID target="tut.starttoc" url="idehelp/start/starttoc.html" />
+	<mapID target="tut.overview" url="idehelp/start/overview.html" />
+	<mapID target="tut.quickstart" url="idehelp/start/quickstart.html" />
+	<mapID target="tut.edit" url="idehelp/start/edit.html" />
+	<mapID target="tut.errors" url="idehelp/start/errors.html" />
+	<mapID target="tut.browse" url="idehelp/start/browse.html" />
+	<mapID target="tut.simpledebug" url="idehelp/start/simpledebug.html" />
+	<mapID target="tut.customize" url="idehelp/start/customize.html" />
+	<mapID target="tut.visual" url="idehelp/start/visual/visual.html" />
+	<mapID target="tut.beansoverview" url="idehelp/start/clock/BeansOverview.html" />
+	<mapID target="bean.jbeanstory" url="idehelp/visual/jbeanstory.html" />
+	<mapID target="bean.beantips" url="idehelp/visual/beantips.html" />
+	-->
+</map>
